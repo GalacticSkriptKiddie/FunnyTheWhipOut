@@ -1,0 +1,10 @@
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\bin\Release\TheWhipOutVirus.exe.config
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\bin\Release\TheWhipOutVirus.exe
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\bin\Release\TheWhipOutVirus.pdb
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.Properties.Resources.resources
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.exe
+C:\Users\Levi\source\repos\TheWhipOutVirus\TheWhipOutVirus\obj\Release\TheWhipOutVirus.pdb
